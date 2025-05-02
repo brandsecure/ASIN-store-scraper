@@ -25,9 +25,9 @@ A simple Chrome extension that scrapes ASIN numbers from any Amazon storefront p
 4. All ASINs from the page will be copied to your clipboard, one per line.
 
 ## 📁 Example Output
-B08DP57QF5
-B09JRHBB6P 
-B08DP5NN4R...
+- B08DP57QF5
+- B09JRHBB6P 
+- B08DP5NN4R...
 
 ## 📝 Notes
 
